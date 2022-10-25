@@ -1,30 +1,60 @@
 [
     {
       "id": "01",
-      "name": "English"
+      "name": "English",
+      "img": "https://tv-english.club/wp-content/uploads/2016/04/studyingenglish.jpg",
+      "price": "20",
+      "title": "Welcome to Learn English",
+      "details": "Learn English online and improve your skills through our high-quality courses and resources – all designed for adult language learners. Everything you find here has been specially created by the British Council, the world's English teaching experts."
+      
     },
     {
       "id": "02",
-      "name": "German"
+      "name": "German",
+      "img": "https://as1.ftcdn.net/v2/jpg/02/42/03/62/500_F_242036288_32FppFTWBOzv5vkmMQt35YSOUXNGp9rj.jpg",
+      "price": "20",
+      "title": "Welcome to Learn Deutsche",
+      "details": "With Deutsche Welle's mobile courses, you can learn German easily and free of charge. Whether you are a beginner or highly proficient, this is where you will find German courses. You can also learn German with the news or music - from level A1 to C1. For German teachers there are teaching materials and the latest on German language teaching."
     },
     {
       "id": "03",
-      "name": "Italian"
+      "name": "Italian",
+      "img": "https://thumbs.dreamstime.com/b/parli-italiano-si-two-speech-bubbles-wooden-shelf-d-illustration-two-speech-bubbles-italian-flag-question-211092698.jpg",
+      "price": "20",
+      "title": "Welcome to Learn Italiano",
+      "details": "Do you want to learn Italian but don’t know where to start? We have found some of the best online resources to spice up your Italian studies or help you learn the language for the first time. As an Italian language school we want to provide everyone with as many different Italian learning resources as we can, because the more that people have the opportunity to explore the Italian language the happier we are!"
     },
     {
       "id": "04",
-      "name": "Dutch"  
+      "name": "Dutch",
+      "img": "https://st2.depositphotos.com/1022214/11593/i/950/depositphotos_115934004-stock-photo-question-do-you-speak-dutch.jpg",
+      "price": "20",
+      "title":"Welcome to Learn Dutch",
+      "details": "Practically everyone in the Netherlands speaks English. You will notice that the Dutch are very understanding to non-Dutch speakers and will switch to English to make things easier for you. But still, it can be helpful to learn a bit of Dutch. Knowing the language will help you better understand Dutch culture and society."
     },
     {
       "id": "05",
-      "name": "Japanese"
+      "name": "Japanese",
+      "img": "https://we-japan.com/wp-content/uploads/2021/05/Japanese-language-Blog-banner-3-1024x576.png",
+      "price": "20",
+      "title": "Welcome to Learn Japanese",
+      "details": "Japanese language learners can sharpen their conversational skills quickly and effectively with Cudoo. We provide a range of Japanese online courses for all levels to suit different requirements, including professional and casual conversation."
     },
     {
       "id": "06",
-      "name": "Spanish"
+      "name": "Spanish",
+      "img": "https://slpr.net/wp-content/uploads/2021/12/spanish.jpg",
+      "price": "20",
+      "title": "Welcome to Learn Spanish",
+      "details": "We specialize in teaching Spanish online to K-12 students. We ensure that our courses pay close attention to include cultural elements from the Hispanic world and promote diversity and intercultural awareness between different groups of people. We ensure that our courses pay close attention to include cultural elements from the Hispanic world and promote diversity and intercultural awareness between different groups of people. "
     },
     {
       "id": "07",
-      "name": "Arabic"
+      "name": "Arabic",
+      "img": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2019/12/63652739575886387531.jpg?resize=827%2C375&ssl=1",
+      "price": "20",
+      "title": "Welcome to Learn Arabic",
+      "details": "A spoken Arabic course for English speakers from Israel or abroad, who are interested in learning spoken Arabic, being exposed to the Palestinian Arabic language and local culture as well as the dilemmas and complexities, which characterize multicultural environments"
     }
-  ]
+    
+]
