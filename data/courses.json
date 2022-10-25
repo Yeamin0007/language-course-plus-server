@@ -1,44 +1,30 @@
 [
     {
       "id": "01",
-      "name": "java",
-      "img": "",
-      "price": ""
+      "name": "English"
     },
     {
       "id": "02",
-      "name": "baba",
-      "img": "",
-      "price": ""
+      "name": "German"
     },
     {
       "id": "03",
-      "name": "hava",
-      "img": "",
-      "price": ""
+      "name": "Italian"
     },
     {
       "id": "04",
-      "name": "maba",
-      "img": "",
-      "price": ""
+      "name": "Dutch"  
     },
     {
       "id": "05",
-      "name": "kaba",
-      "img": "",
-      "price": ""
+      "name": "Japanese"
     },
     {
       "id": "06",
-      "name": "thaba",
-      "img": "",
-      "price": ""
+      "name": "Spanish"
     },
     {
       "id": "07",
-      "name": "nava",
-      "img": "",
-      "price": ""
+      "name": "Arabic"
     }
   ]

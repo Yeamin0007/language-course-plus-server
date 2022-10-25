@@ -15,7 +15,9 @@ app.get('/courses', (req, res)=>{
     res.send(courses)
 })
 
-
+app.get('/details', (req, res)=>{
+    res.send(details)
+})
 
 app.listen(port, ()=>{
     console.log('course plus server running on port', port);
