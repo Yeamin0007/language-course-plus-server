@@ -2,43 +2,37 @@
     {
       "id": "01",
       "name": "English",
-      "img": "https://tv-english.club/wp-content/uploads/2016/04/studyingenglish.jpg",
-      "price": "20"
+      "img": "https://edureviews.com/blog/my/wp-content/uploads/2019/06/english-1280x640.jpg"
+      
     },
     {
       "id": "02",
       "name": "German",
-      "img": "https://as1.ftcdn.net/v2/jpg/02/42/03/62/500_F_242036288_32FppFTWBOzv5vkmMQt35YSOUXNGp9rj.jpg",
-      "price": "20"
+      "img": "https://as1.ftcdn.net/v2/jpg/02/42/03/62/500_F_242036288_32FppFTWBOzv5vkmMQt35YSOUXNGp9rj.jpg"
     },
     {
       "id": "03",
       "name": "Italian",
-      "img": "https://thumbs.dreamstime.com/b/parli-italiano-si-two-speech-bubbles-wooden-shelf-d-illustration-two-speech-bubbles-italian-flag-question-211092698.jpg",
-      "price": "20"
+      "img": "https://thumbs.dreamstime.com/b/parli-italiano-si-two-speech-bubbles-wooden-shelf-d-illustration-two-speech-bubbles-italian-flag-question-211092698.jpg"
     },
     {
       "id": "04",
       "name": "Dutch",
-      "img": "https://st2.depositphotos.com/1022214/11593/i/950/depositphotos_115934004-stock-photo-question-do-you-speak-dutch.jpg",
-      "price": "20"  
+      "img": "https://st2.depositphotos.com/1022214/11593/i/950/depositphotos_115934004-stock-photo-question-do-you-speak-dutch.jpg"
     },
     {
       "id": "05",
       "name": "Japanese",
-      "img": "https://we-japan.com/wp-content/uploads/2021/05/Japanese-language-Blog-banner-3-1024x576.png",
-      "price": "20"
+      "img": "https://we-japan.com/wp-content/uploads/2021/05/Japanese-language-Blog-banner-3-1024x576.png"
     },
     {
       "id": "06",
       "name": "Spanish",
-      "img": "https://slpr.net/wp-content/uploads/2021/12/spanish.jpg",
-      "price": "20"
+      "img": "https://slpr.net/wp-content/uploads/2021/12/spanish.jpg"
     },
     {
       "id": "07",
       "name": "Arabic",
-      "img": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2019/12/63652739575886387531.jpg?resize=827%2C375&ssl=1",
-      "price": "20"
+      "img": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2019/12/63652739575886387531.jpg?resize=827%2C375&ssl=1"
     }
-  ]
+]

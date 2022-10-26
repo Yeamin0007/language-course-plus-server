@@ -2,19 +2,21 @@
     {
       "id": "01",
       "name": "English",
-      "img": "https://tv-english.club/wp-content/uploads/2016/04/studyingenglish.jpg",
-      "price": "20",
-      "title": "Welcome to Learn English",
-      "details": "Learn English online and improve your skills through our high-quality courses and resources – all designed for adult language learners. Everything you find here has been specially created by the British Council, the world's English teaching experts."
+      "img": "https://edureviews.com/blog/my/wp-content/uploads/2019/06/english-1280x640.jpg",
+      "price": "12,60",
+      "title": "Welcome to Learn English Language",
+      "details": "Are you ready to master the English language? Are you tired of learning the same simple topics and never really getting better at English speaking or English grammar? This course will fix all those problems. This has been one of the top Udemy English courses for many years, and that is because we care about our students. The English master course covers all areas of English learning. English grammar, English speaking, and English writing (punctuation). There are over 35 hours of video lessons, hundreds of examples and practice problems, and full-length PDFs.This course is HUGE. Basically 3 courses in 1.",
+      "rating": "5"
       
     },
     {
       "id": "02",
       "name": "German",
       "img": "https://as1.ftcdn.net/v2/jpg/02/42/03/62/500_F_242036288_32FppFTWBOzv5vkmMQt35YSOUXNGp9rj.jpg",
-      "price": "20",
+      "price": "22.20",
       "title": "Welcome to Learn Deutsche",
-      "details": "With Deutsche Welle's mobile courses, you can learn German easily and free of charge. Whether you are a beginner or highly proficient, this is where you will find German courses. You can also learn German with the news or music - from level A1 to C1. For German teachers there are teaching materials and the latest on German language teaching."
+      "details": "The course will start by introducing you to the German alphabet and work our way up to learning German grammar, Vocabulary, & Conversation. Apart from the 31 grammar lectures, this course also includes 17 animated videos which will make it easier for you to learn basic German conversations as well as the vocabulary. The vocabulary videos are all translated from German to English. We will also make an intermediate and final exam about the German grammar and vocabulary, in order to test what you have learned. It is an interactive course with a lot of varied input and a very experienced and motivated German teacher who will lead you through the entire course.",
+      "rating": "4.5"
     },
     {
       "id": "03",
@@ -22,31 +24,35 @@
       "img": "https://thumbs.dreamstime.com/b/parli-italiano-si-two-speech-bubbles-wooden-shelf-d-illustration-two-speech-bubbles-italian-flag-question-211092698.jpg",
       "price": "20",
       "title": "Welcome to Learn Italiano",
-      "details": "Do you want to learn Italian but don’t know where to start? We have found some of the best online resources to spice up your Italian studies or help you learn the language for the first time. As an Italian language school we want to provide everyone with as many different Italian learning resources as we can, because the more that people have the opportunity to explore the Italian language the happier we are!"
+      "details": "Do you want to learn Italian but don’t know where to start? We have found some of the best online resources to spice up your Italian studies or help you learn the language for the first time. As an Italian language school we want to provide everyone with as many different Italian learning resources as we can, because the more that people have the opportunity to explore the Italian language the happier we are! The ultimate Italian beginner course that will teach you Italian faster than you thought possible! If you’ve ever dreamed of travelling to Italy and holding your own in real-life situations, being independent and able to communicate with the locals, this second part to our beginner series is the perfect place for you to continue your Italian journey!",
+      "rating": "4.3"
     },
     {
       "id": "04",
       "name": "Dutch",
       "img": "https://st2.depositphotos.com/1022214/11593/i/950/depositphotos_115934004-stock-photo-question-do-you-speak-dutch.jpg",
-      "price": "20",
+      "price": "16",
       "title":"Welcome to Learn Dutch",
-      "details": "Practically everyone in the Netherlands speaks English. You will notice that the Dutch are very understanding to non-Dutch speakers and will switch to English to make things easier for you. But still, it can be helpful to learn a bit of Dutch. Knowing the language will help you better understand Dutch culture and society."
+      "details": "You don't have to be...  Contrary to what you might believe the Dutch language (language from the Netherlands and part of Belgium) is still considered one of the easiest languages to learn for native and non-native English speakers.  I designed this course for anyone who wants to learn to speak, read, write, and listen to the Dutch language from scratch, in a simple, painless manner. So if you are an absolute beginner (A1-A2) and you have very little knowledge of Dutch, this course is good for you.  Or if you are going on a holiday, study or move to the Netherlands (Holland) or Belgium and you need to get practical use of basic Dutch as quickly as possible. Then this Learn Dutch course is the right choice for you!",
+      "rating": "4.5"
     },
     {
       "id": "05",
       "name": "Japanese",
       "img": "https://we-japan.com/wp-content/uploads/2021/05/Japanese-language-Blog-banner-3-1024x576.png",
-      "price": "20",
+      "price": "25.50",
       "title": "Welcome to Learn Japanese",
-      "details": "Japanese language learners can sharpen their conversational skills quickly and effectively with Cudoo. We provide a range of Japanese online courses for all levels to suit different requirements, including professional and casual conversation."
+      "details": "The“Online Japanese Beginner Course” is intended for beginner level learners.  Through the use of video materials, learners will study Japanese pronunciation and writing, in addition to simple greetings and expressions used in everyday life. In addition, since a PDF file textbook is included and can be printed any number of times, the practice of writing hiragana and katakana can also be obtained. In addition to Japanese pronunciation and writing, daily conversation and expressions are also taught. All of the narration contains English subtitles, so that the people learning Japanese for the first time can freely study the materials. ",
+      "rating": "4"
     },
     {
       "id": "06",
       "name": "Spanish",
       "img": "https://slpr.net/wp-content/uploads/2021/12/spanish.jpg",
-      "price": "20",
+      "price": "18",
       "title": "Welcome to Learn Spanish",
-      "details": "We specialize in teaching Spanish online to K-12 students. We ensure that our courses pay close attention to include cultural elements from the Hispanic world and promote diversity and intercultural awareness between different groups of people. We ensure that our courses pay close attention to include cultural elements from the Hispanic world and promote diversity and intercultural awareness between different groups of people. "
+      "details": "We specialize in teaching Spanish online to K-12 students. We ensure that our courses pay close attention to include cultural elements from the Hispanic world and promote diversity and intercultural awareness between different groups of people. We ensure that our courses pay close attention to include cultural elements from the Hispanic world and promote diversity and intercultural awareness between different groups of people. This course is in fact 4 courses in one. You will go from complete beginner to advanced Spanish student. If you are not a beginner, we still have lessons for you! In this course, you  will find 323 videos covering vocabulary, pronunciation, grammar and punctuation. These lessons break things down and cover topics in detail. This is Spanish for serious language learners who truly want to learn Spanish. 323 lessons and over 109 hours of content!  ",
+      "rating": "4.7"
     },
     {
       "id": "07",
@@ -54,7 +60,8 @@
       "img": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2019/12/63652739575886387531.jpg?resize=827%2C375&ssl=1",
       "price": "20",
       "title": "Welcome to Learn Arabic",
-      "details": "A spoken Arabic course for English speakers from Israel or abroad, who are interested in learning spoken Arabic, being exposed to the Palestinian Arabic language and local culture as well as the dilemmas and complexities, which characterize multicultural environments"
+      "details": "A spoken Arabic course for English speakers from Israel or abroad, who are interested in learning spoken Arabic, being exposed to the Palestinian Arabic language and local culture as well as the dilemmas and complexities, which characterize multicultural environments. Welcome to the bestseller Arabic complete course on Udemy! This course is for absolute beginners to intermediate level+ (B1+) 1250+ minutes of contents to teach you Arabic language perfectly!  I have announced this course proudly years ago, and proudly sharing now with you, this is the bestseller Arabic course you find on Udemy and online! This course is going to give you the ability to learn Arabic language smoothly and easily, with a lot of new features that makes learning easier and more efficient. We never use boring teaching methodologies, but fun, interesting and attractive ones.",
+      "rating": "5"
     }
     
 ]
